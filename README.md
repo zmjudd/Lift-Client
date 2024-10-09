@@ -3,7 +3,7 @@
     <img width="200" src="https://i.postimg.cc/VLchN7Yz/Untitled134-20241009104941.png">
 </p>
 
-[liftclient.pl](https://liftclient.pl) |
+[BUY (5$)](https://liftclient.pl) |
 [Forum](https://forums.liftclient.pl) |
 [Discord](https://guilded.gg/liftcl) |
 [YouTube](https://youtube.com/@liftcl) |
