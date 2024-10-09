@@ -10,12 +10,12 @@
 [Twitter](https://twitter.com/liftcl)
 </div>
 
-LiquidBounce is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
+Lift Client is a budget and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
 
 ## Issues
 
 If you notice any bugs or missing features, you can let us know by opening an
-issue [here](https://github.com/CCBlueX/LiquidBounce/issues).
+issue [here](https://github.com/zmjudd/Lift/client/issues).
 
 ## License
 
@@ -42,11 +42,11 @@ nor legally binding.
 
 ## Setting up a Workspace
 
-LiquidBounce uses Gradle, to make sure that it is installed properly you can
+Lift Client uses Gradle, to make sure that it is installed properly you can
 check [Gradle's website](https://gradle.org/install/). It also requires Node.js and Python to be installed for
 our [theme](https://github.com/CCBlueX/LiquidBounce/tree/nextgen/src-theme).
 
-1. Clone the repository using `git clone --recurse-submodules https://github.com/CCBlueX/LiquidBounce`.
+1. Clone the repository using `git clone --recurse-submodules https://github.com/zmjudd/lift-client`.
 2. CD into the local repository.
 3. Run `./gradlew genSources`.
 4. Open the folder as a Gradle project in your preferred IDE.
