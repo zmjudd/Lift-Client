@@ -10,7 +10,7 @@
 [Twitter](https://twitter.com/liftcl)
 </div>
 
-Lift Client is a budget and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
+Lift Client is a budget and open-source mixin-based injection hacked client using the Fabric API for Minecraft (forked from LiquidBounce NextGen 1.15.1).
 
 ## Issues
 
