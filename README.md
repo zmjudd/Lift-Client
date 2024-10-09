@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-    <img width="200" src="https://ibb.co/svpn4DK">
+    <img width="200" src="https://i.postimg.cc/6pr1RCpC/IMG-1042.jpg">
 </p>
 
 [liquidbounce.net](https://liquidbounce.net) |
