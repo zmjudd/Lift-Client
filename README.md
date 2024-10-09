@@ -5,7 +5,7 @@
 
 [liftclient.pl](https://liftclient.pl) |
 [Forum](https://forums.liftclient.pl) |
-[Guilded](https://guilded.gg/CCBlueX) |
+[Guilded](https://guilded.gg/liftcl) |
 [YouTube](https://youtube.com/@liftcl) |
 [Twitter](https://twitter.com/liftcl)
 </div>
